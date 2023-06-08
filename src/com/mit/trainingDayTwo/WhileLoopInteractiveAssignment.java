@@ -2,7 +2,7 @@ package com.mit.trainingDayTwo;
 
 import java.util.Scanner;
 
-public class WhileLoopInteractiveExample {
+public class WhileLoopInteractiveAssignment {
     public static void main(String[] args) {
         // Print the first 6 digits of the Fibonacci Sequence using a while loop
 

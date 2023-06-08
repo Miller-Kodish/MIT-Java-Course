@@ -1,9 +1,9 @@
 package com.mit.trainingDayOne;
 
-public class callPlatypus {
+public class CallPlatypus {
 
     public static void main() {
-        mammalParentClass callOne = new mammalParentClass(); // Creates a new class for use of reference
+        MammalParentClass callOne = new MammalParentClass(); // Creates a new class for use of reference
         System.out.println("Perry the " + callOne.mammalPlatypus);
     }
 }

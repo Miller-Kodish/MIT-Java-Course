@@ -9,5 +9,9 @@ public class EncapsulationExample {
 
         encExample.welcomeMessage = "Hello Again!"; // Changes encExample welcomeMessage variable in memory, does not change the actual welcomeMessage variable
         System.out.println(encExample.welcomeMessage);  // Prints new welcomeMessage variable (Hello Again!)
+
+//        // * FOR ABSTRACTION EXAMPLE *
+//        AbstractionExample absExample = new AbstractionExample();
+//        System.out.println(absExample.welcomeMessage);  // Does NOT print "Hello, World!", because it is private, life of variable is only within its class
     }
 }

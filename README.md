@@ -11,7 +11,7 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | LinkedIn | [Miller's LinkedIn](https://www.linkedin.com/in/miller-kodish/) |
 | Personal Website | [Miller's Website](https://millerkodish.com/) |
 
-### Homework Code:
+### Interactive Assignment Code:
 | Site     | Link |
 | ------------ | ---------- |
 | GitHub | [Miller's GitHub](https://github.com/Miller11k) |
@@ -36,12 +36,11 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | Beak Example | [BreakExample.java](/src/com/mit/trainingDayTwo/BreakExample.java) |
 | Continue Example | [ContinueExample.java](/src/com/mit/trainingDayTwo/ContinueExample.java) |
 
-### Homework Code:
-| Site     | Link |
+### Interactive Assignment Code:
+| Concept     | Code Link |
 | ------------ | ---------- |
-| GitHub | [Miller's GitHub](https://github.com/Miller11k) |
-| Personal Website | [Miller's Website](https://millerkodish.com/) |
-| LinkedIn | [Miller's LinkedIn](https://www.linkedin.com/in/miller-kodish/) |
-| Personal Website | [Miller's Website](https://millerkodish.com/) |
+| If Statements | [IfStatementInteractiveAssignment.java](/src/com/mit/trainingDayTwo/IfStatementInteractiveAssignment.java) |
+| For Loops | [ForLoopInteractiveAssignment.java](/src/com/mit/trainingDayTwo/ForLoopInteractiveAssignment.java) |
+| While Loops | [WhileLoopInteractiveAssignment.java](/src/com/mit/trainingDayTwo/WhileLoopInteractiveAssignment.java) |
 
 -----

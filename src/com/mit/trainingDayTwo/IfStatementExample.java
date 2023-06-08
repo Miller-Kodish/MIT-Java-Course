@@ -1,6 +1,6 @@
 package com.mit.trainingDayTwo;
 
-public class ifStatementExample {
+public class IfStatementExample {
 
     public static void main(String[] args) {
         // Variable Declarations

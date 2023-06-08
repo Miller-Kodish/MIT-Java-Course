@@ -23,12 +23,13 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 ## Day 2 - If Statements, For/While/Do While Loops, Break and Continue:
 ### Class Code:
-| Site     | Link |
+| Topic     | Code |
 | ------------ | ---------- |
-| GitHub | [Miller's GitHub](https://github.com/Miller11k) |
+| If Statement | [IfStatementExample.java](/src/com/mit/trainingDayTwo/IfStatementExample.java) |
 | Personal Website | [Miller's Website](https://millerkodish.com/) |
 | LinkedIn | [Miller's LinkedIn](https://www.linkedin.com/in/miller-kodish/) |
 | Beak Example | [BreakExample.java](/src/com/mit/trainingDayTwo/BreakExample.java) |
+| Continue Example | [ContinueExample.java](/src/com/mit/trainingDayTwo/ContinueExample.java) |
 
 ### Homework Code:
 | Site     | Link |

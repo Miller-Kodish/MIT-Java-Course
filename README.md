@@ -27,7 +27,7 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | ------------ | ---------- |
 | If Statement | [IfStatementExample.java](/src/com/mit/trainingDayTwo/IfStatementExample.java) |
 | If Else Ladder | [IfElseLadderExample.java](/src/com/mit/trainingDayTwo/IfElseLadderExample.java) |
-| Nested If | [NestedIf.java](/src/com/mit/trainingDayTwo/NestedIf.java) |
+| Nested If | [NestedIf.java](/src/com/mit/trainingDayTwo/NestedIfExample.java) |
 | Beak Example | [BreakExample.java](/src/com/mit/trainingDayTwo/BreakExample.java) |
 | Continue Example | [ContinueExample.java](/src/com/mit/trainingDayTwo/ContinueExample.java) |
 

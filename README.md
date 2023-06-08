@@ -14,11 +14,11 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 ### Interactive Assignment Code:
 | Site     | Link |
 | ------------ | ---------- |
-| mammalParentClass | [mammalParentClass.java](/src/com/mit/trainingDayOne/mammalParentClass.java) |
-| callPlatypus | [callPlatypus.java](/src/com/mit/trainingDayOne/callPlatypus.java) |
-| callOtter | [callOtter.java](/src/com/mit/trainingDayOne/callOtter.java) |
-| callSloth | [callSloth.java](/src/com/mit/trainingDayOne/callSloth.java) |
-| mammalCallingClass | [mammalCallingClass.java](/src/com/mit/trainingDayOne/mammalCallingClass.java) |
+| mammalParentClass | [MammalParentClass.java](/src/com/mit/trainingDayOne/MammalParentClass.java) |
+| callPlatypus | [CallPlatypus.java](/src/com/mit/trainingDayOne/CallPlatypus.java) |
+| callOtter | [CallOtter.java](/src/com/mit/trainingDayOne/CallOtter.java) |
+| callSloth | [CallSloth.java](/src/com/mit/trainingDayOne/CallSloth.java) |
+| mammalCallingClass | [MammalCallingClass.java](/src/com/mit/trainingDayOne/MammalCallingClass.java) |
 
 -----
 

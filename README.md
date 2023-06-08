@@ -7,9 +7,9 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | Topic     | Code Link |
 | ------------ | ---------- |
 | Encapsulation | [EncapsulationExample.java](/src/com/mit/trainingDayOne/EncapsulationExample.java) |
-| Abstraction | [Miller's Website](/src/com/mit/trainingDayOne/AbstractionExample.java) |
-| Polymorphism | [Miller's Website](/src/com/mit/trainingDayOne/PolymorphismExample.java) |
-| Inheritance | [Miller's LinkedIn](/src/com/mit/trainingDayOne/InheritanceExample.java) |
+| Abstraction | [AbstrationExample.java](/src/com/mit/trainingDayOne/AbstractionExample.java) |
+| Polymorphism | [PolymorphismExample.java](/src/com/mit/trainingDayOne/PolymorphismExample.java) |
+| Inheritance | [InheritanceExample.java](/src/com/mit/trainingDayOne/InheritanceExample.java) |
 
 ### Interactive Assignment Code:
 | Concept     | Code Link |
@@ -45,3 +45,5 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | While Loops | [WhileLoopInteractiveAssignment.java](/src/com/mit/trainingDayTwo/WhileLoopInteractiveAssignment.java) |
 
 -----
+
+## Day 3 - :

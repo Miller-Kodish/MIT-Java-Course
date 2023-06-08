@@ -31,8 +31,8 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | Nested If | [NestedIf.java](/src/com/mit/trainingDayTwo/NestedIf.java) |
 | Switch Statement | [SwitchExample.java](/src/com/mit/trainingDayTwo/SwitchExample.java) |
 | For Loop | [ForLoopExample.java](/src/com/mit/trainingDayTwo/ForLoopExample.java) |
-| While Loop | [NestedIf.java](/src/com/mit/trainingDayTwo/WhileExample.java) |
-| Do While Loop | [NestedIf.java](/src/com/mit/trainingDayTwo/DoWhileExample.java) |
+| While Loop | [WhileExample.java](/src/com/mit/trainingDayTwo/WhileExample.java) |
+| Do While Loop | [DoWhileExample.java](/src/com/mit/trainingDayTwo/DoWhileExample.java) |
 | Beak Example | [BreakExample.java](/src/com/mit/trainingDayTwo/BreakExample.java) |
 | Continue Example | [ContinueExample.java](/src/com/mit/trainingDayTwo/ContinueExample.java) |
 

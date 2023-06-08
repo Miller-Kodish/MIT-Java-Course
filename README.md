@@ -2,17 +2,17 @@
 A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
-## Day 1 - :
+## Day 1 - Encapsulation, Abstraction, Inheritance, and Polymorphism:
 ### Class Code:
-| Site     | Link |
+| Topic     | Code Link |
 | ------------ | ---------- |
-| GitHub | [Miller's GitHub](https://github.com/Miller11k) |
-| Personal Website | [Miller's Website](https://millerkodish.com/) |
-| LinkedIn | [Miller's LinkedIn](https://www.linkedin.com/in/miller-kodish/) |
-| Personal Website | [Miller's Website](https://millerkodish.com/) |
+| Encapsulation | [EncapsulationExample.java](/src/com/mit/trainingDayOne/EncapsulationExample.java) |
+| Abstraction | [Miller's Website](/src/com/mit/trainingDayOne/AbstractionExample.java) |
+| Polymorphism | [Miller's Website](/src/com/mit/trainingDayOne/PolymorphismExample.java) |
+| Inheritance | [Miller's LinkedIn](/src/com/mit/trainingDayOne/InheritanceExample.java) |
 
 ### Interactive Assignment Code:
-| Site     | Link |
+| Concept     | Code Link |
 | ------------ | ---------- |
 | mammalParentClass | [MammalParentClass.java](/src/com/mit/trainingDayOne/MammalParentClass.java) |
 | callPlatypus | [CallPlatypus.java](/src/com/mit/trainingDayOne/CallPlatypus.java) |

@@ -28,7 +28,7 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | GitHub | [Miller's GitHub](https://github.com/Miller11k) |
 | Personal Website | [Miller's Website](https://millerkodish.com/) |
 | LinkedIn | [Miller's LinkedIn](https://www.linkedin.com/in/miller-kodish/) |
-| Personal Website | [Miller's Website](https://millerkodish.com/) |
+| Beak Example | [BreakExample.java](/src/com/mit/trainingDayTwo/BreakExample.java) |
 
 ### Homework Code:
 | Site     | Link |

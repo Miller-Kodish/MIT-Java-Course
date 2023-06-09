@@ -46,4 +46,4 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
 
-## Day 3 - :
+## Day 3 - Constructors and Exception Handling:

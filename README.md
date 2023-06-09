@@ -12,13 +12,11 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 | Inheritance | [InheritanceExample.java](src/com/mit/trainingDayOne/InheritanceExample.java) |
 
 ### Interactive Assignment Code:
-| Concept     | Code Link |
-| ------------ | ---------- |
-| mammalParentClass | [MammalParentClass.java](src/com/mit/trainingDayOne/MammalParentClass.java) |
-| callPlatypus | [CallPlatypus.java](src/com/mit/trainingDayOne/CallPlatypus.java) |
-| callOtter | [CallOtter.java](src/com/mit/trainingDayOne/CallOtter.java) |
-| callSloth | [CallSloth.java](src/com/mit/trainingDayOne/CallSloth.java) |
-| mammalCallingClass | [MammalCallingClass.java](src/com/mit/trainingDayOne/MammalCallingClass.java) |
+| Concept              | Code Link                                                                       |
+|----------------------|---------------------------------------------------------------------------------|
+| Inheritance (Parent) | [MammalParentClass.java](src/com/mit/trainingDayOne/MammalParentClass.java)     |
+| Inheritance (Child)  | [MammalChildClassOne.java](src/com/mit/trainingDayOne/MammalChildClassOne.java) |
+| Inheritance (Child)  | [MammalChildClassTwo.java](src/com/mit/trainingDayOne/MammalChildClassTwo.java) |
 
 -----
 

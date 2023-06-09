@@ -2,7 +2,7 @@ package com.mit.trainingDayTwo;
 
 import java.util.Scanner;
 
-public class IfStatementInteractiveAssignment {
+public class VideoGameRating {
     public static void main(String[] args) {
         // If age is at least 18, you can play up to A-Rated Games
         // If age is at least 17, you can play up to M-Rated Games

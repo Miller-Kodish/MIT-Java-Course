@@ -2,7 +2,7 @@ package com.mit.trainingDayTwo;
 
 import java.util.Scanner;
 
-public class ForLoopInteractiveAssignment {
+public class StarPatternGenerator {
     public static void main(String[] args) {
         int maximum;
         int i;

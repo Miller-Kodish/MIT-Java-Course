@@ -23,10 +23,10 @@ public class FibonnaciSequenceRecursion {
         int i;
 
         Scanner myObj = new Scanner(System.in); // Import Scanner for user input
-        System.out.print("Enter the maximum number of values in the fibonacci sequence you want to see: ");
+        System.out.print("\nEnter the maximum number of values in the fibonacci sequence you want to see: ");
         fibNum = myObj.nextInt();
 
-        System.out.println("----- Pattern With " + fibNum + " Terms -----");
+        System.out.println("\n----- Pattern With " + fibNum + " Terms -----");
 
         for (i = 0; i < fibNum; i++) {  // Call print statements
             printFibonacciSequence(i);

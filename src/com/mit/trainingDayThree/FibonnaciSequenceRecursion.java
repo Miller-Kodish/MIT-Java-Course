@@ -26,7 +26,7 @@ public class FibonnaciSequenceRecursion {
         System.out.print("\nEnter the maximum number of values in the fibonacci sequence you want to see: ");
         fibNum = myObj.nextInt();
 
-        System.out.println("\n----- Pattern With " + fibNum + " Terms -----");
+        System.out.println("\n----- Pattern With " + fibNum + " Terms -----\n");
 
         for (i = 0; i < fibNum; i++) {  // Call print statements
             printFibonacciSequence(i);

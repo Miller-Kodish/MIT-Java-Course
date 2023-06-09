@@ -38,7 +38,6 @@ public class WhileLoopInteractiveAssignment {
             System.out.print("1");
         }
 
-
         // Create Fibonacci Series after the second digit:
         while (i < numDigits) {
             fibNum = sum + prevSum;

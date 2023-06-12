@@ -1,17 +1,22 @@
 # **MIT Java Training**
+
 A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
+
 ## Day 1 - Encapsulation, Abstraction, Inheritance, and Polymorphism:
+
 ### Class Code:
-| Topic     | Code Link |
-| ------------ | ---------- |
+
+| Topic         | Code Link                                                                         |
+|---------------|-----------------------------------------------------------------------------------|
 | Encapsulation | [EncapsulationExample.java](src/com/mit/trainingDayOne/EncapsulationExample.java) |
-| Abstraction | [AbstrationExample.java](src/com/mit/trainingDayOne/AbstractionExample.java) |
-| Polymorphism | [PolymorphismExample.java](src/com/mit/trainingDayOne/PolymorphismExample.java) |
-| Inheritance | [InheritanceExample.java](src/com/mit/trainingDayOne/InheritanceExample.java) |
+| Abstraction   | [AbstrationExample.java](src/com/mit/trainingDayOne/AbstractionExample.java)      |
+| Polymorphism  | [PolymorphismExample.java](src/com/mit/trainingDayOne/PolymorphismExample.java)   |
+| Inheritance   | [InheritanceExample.java](src/com/mit/trainingDayOne/InheritanceExample.java)     |
 
 ### Interactive Assignment Code:
+
 | Concept              | Code Link                                                                       |
 |----------------------|---------------------------------------------------------------------------------|
 | Inheritance (Parent) | [MammalParentClass.java](src/com/mit/trainingDayOne/MammalParentClass.java)     |
@@ -23,45 +28,74 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 ## Day 2 - If Statements, For/While/Do While Loops, Break and Continue:
 
 ### Class Code:
-| Topic     | Code Link |
-| ------------ | ---------- |
-| If Statement | [IfStatementExample.java](src/com/mit/trainingDayTwo/IfStatementExample.java) |
-| If Else Ladder | [IfElseLadderExample.java](src/com/mit/trainingDayTwo/IfElseLadderExample.java) |
-| Nested If | [NestedIf.java](src/com/mit/trainingDayTwo/NestedIf.java) |
-| Switch Statement | [SwitchExample.java](src/com/mit/trainingDayTwo/SwitchExample.java) |
-| For Loop | [ForLoopExample.java](src/com/mit/trainingDayTwo/ForLoopExample.java) |
-| While Loop | [WhileExample.java](src/com/mit/trainingDayTwo/WhileExample.java) |
-| Do While Loop | [DoWhileExample.java](src/com/mit/trainingDayTwo/DoWhileExample.java) |
-| Beak Example | [BreakExample.java](src/com/mit/trainingDayTwo/BreakExample.java) |
-| Continue Example | [ContinueExample.java](src/com/mit/trainingDayTwo/ContinueExample.java) |
+
+| Topic            | Code Link                                                                       |
+|------------------|---------------------------------------------------------------------------------|
+| If Statement     | [IfStatementExample.java](src/com/mit/trainingDayTwo/IfStatementExample.java)   |
+| If Else Ladder   | [IfElseLadderExample.java](src/com/mit/trainingDayTwo/IfElseLadderExample.java) |
+| Nested If        | [NestedIf.java](src/com/mit/trainingDayTwo/NestedIf.java)                       |
+| Switch Statement | [SwitchExample.java](src/com/mit/trainingDayTwo/SwitchExample.java)             |
+| For Loop         | [ForLoopExample.java](src/com/mit/trainingDayTwo/ForLoopExample.java)           |
+| While Loop       | [WhileExample.java](src/com/mit/trainingDayTwo/WhileExample.java)               |
+| Do While Loop    | [DoWhileExample.java](src/com/mit/trainingDayTwo/DoWhileExample.java)           |
+| Beak Example     | [BreakExample.java](src/com/mit/trainingDayTwo/BreakExample.java)               |
+| Continue Example | [ContinueExample.java](src/com/mit/trainingDayTwo/ContinueExample.java)         |
 
 ### Interactive Assignment Code:
-| Concept     | Code Link                                                                                |
-| ------------ |------------------------------------------------------------------------------------------|
-| If Statements | [VideoGameRating.java](src/com/mit/trainingDayTwo/VideoGameRating.java) |
-| For Loops | [StarPatternGenerator.java](src/com/mit/trainingDayTwo/StarPatternGenerator.java)        |
-| While Loops | [FibonnaciSequence.java](src/com/mit/trainingDayTwo/FibonnaciSequence.java)              |
+
+| Concept       | Code Link                                                                         |
+|---------------|-----------------------------------------------------------------------------------|
+| If Statements | [VideoGameRating.java](src/com/mit/trainingDayTwo/VideoGameRating.java)           |
+| For Loops     | [StarPatternGenerator.java](src/com/mit/trainingDayTwo/StarPatternGenerator.java) |
+| While Loops   | [FibonnaciSequence.java](src/com/mit/trainingDayTwo/FibonnaciSequence.java)       |
 
 -----
 
 ## Day 3 - Constructors, Exception Handling, and Recursion:
 
 ### Class Code:
-| Topic              | Code Link                                                                            |
-|--------------------|--------------------------------------------------------------------------------------|
-| Constructors       | [ConstructorExample.java](src/com/mit/trainingDayThree/ConstructorExample.java)      |
+
+| Topic              | Code Link                                                                             |
+|--------------------|---------------------------------------------------------------------------------------|
+| Constructors       | [ConstructorExample.java](src/com/mit/trainingDayThree/ConstructorExample.java)       |
 | Exception Handling | [MathematicalOperation.java](src/com/mit/trainingDayThree/MathematicalOperation.java) |
-| Recurrance         | [RecurranceExample.java](src/com/mit/trainingDayThree/RecurranceExample.java)        |
+| Recurrance         | [RecurranceExample.java](src/com/mit/trainingDayThree/RecurranceExample.java)         |
 
 ### Interactive Assignment Code:
-| Concept      | Code Link                                                                                         |
-|--------------|---------------------------------------------------------------------------------------------------|
-| Constructors | [AreaCalculation.java](src/com/mit/trainingDayThree/AreaCalculation.java)                         |
+
+| Concept      | Code Link                                                                                       |
+|--------------|-------------------------------------------------------------------------------------------------|
+| Constructors | [AreaCalculation.java](src/com/mit/trainingDayThree/AreaCalculation.java)                       |
 | Recurrance   | [FibonnaciSequenceRecursion.java](src/com/mit/trainingDayThree/FibonnaciSequenceRecursion.java) |
 
 -----
 
-## Day 4 - Interfaces,:
+## Day 4 - Interfaces, and Strings:
+
+### Class Code:
+
+| Topic           | Code Link                                                              |
+|-----------------|------------------------------------------------------------------------|
+| Interface Class | [MusicPlayer.java](src/com/mit/trainingDayFour/MusicPlayer.java)       |
+| Abstract Class  | [AbsMusicPlayer.java](src/com/mit/trainingDayFour/AbsMusicPlayer.java) |                  
+| Public Class    | [Apple.java](src/com/mit/trainingDayFour/Apple.java)                   |                  
+| Extends         | [Creative.java](src/com/mit/trainingDayFour/Creative.java)             |                  
+| Implements      | [iPod.java](src/com/mit/trainingDayFour/iPod.java)                     |                  
+| Strings         | [StringExamples.java](src/com/mit/trainingDayFour/StringExamples.java) |
+
+### Interactive Assignment Code:
+
+| Concept        | Code Link                                                                      |
+|----------------|--------------------------------------------------------------------------------|
+| Interface      | [AnimalInterface.java](src/com/mit/trainingDayFour/AnimalInterface.java)       |        
+| Abstract Class | [LandAnimalAbstract.java](src/com/mit/trainingDayFour/LandAnimalAbstract.java) |
+| Extends        | [AnimalChildOne.java](src/com/mit/trainingDayFour/AnimalChildOne.java)         |         
+| Extends        | [AnimalChildTwo.java](src/com/mit/trainingDayFour/AnimalChildTwo.java)         |         
+| Strings        | [PalindromeChecker.java](src/com/mit/trainingDayFour/PalindromeChecker.java)   |
+
+-----
+
+## Day 5 - :
 
 ### Class Code:
 | Topic              | Code Link                                                                            |
@@ -71,3 +105,4 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 ### Interactive Assignment Code:
 | Concept      | Code Link                                                                                         |
 |--------------|---------------------------------------------------------------------------------------------------|
+

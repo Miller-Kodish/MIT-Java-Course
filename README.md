@@ -61,7 +61,7 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
 
-## Day 4 - :
+## Day 4 - Interfaces,:
 
 ### Class Code:
 | Topic              | Code Link                                                                            |

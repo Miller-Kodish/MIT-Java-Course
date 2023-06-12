@@ -1,15 +1,7 @@
 package com.mit.trainingDayThree;
 
 public class MathematicalOperation {
-    private double divide(int diviser, int divident) {
-        return diviser / divident;
-    }
-
-    private double divide(String diviser, String divident) {
-        return (Integer.getInteger(diviser) / Integer.getInteger(divident));
-    }
-
-    public static void main(String[] args) throws ArithmeticException, NullPointerException{    // Must specify which exceptions it throws
+    public static void main(String[] args) throws ArithmeticException, NullPointerException {    // Must specify which exceptions it throws
         int diviserInteger = 21;
         int dividentInteger = 7;   // If 0, will throw an error
 
@@ -22,15 +14,23 @@ public class MathematicalOperation {
             System.out.println("STRING: " + diviserString + " divided by " + dividentString + " equals: " + mathOps.divide(diviserString, dividentString));
         } catch (ArithmeticException errorArithmetic) {  // All exceptions are of class Exception
             System.out.println("Encountered Arithmetic Exception: " + errorArithmetic.getMessage()); // Prints "Encountered Arithmetic Exception: / by zero"
-            throw(errorArithmetic);
+            throw (errorArithmetic);
         } catch (NullPointerException errorNullPointer) {  // All exceptions are of class Exception
             System.out.println("Encountered Null Pointer Exception: " + errorNullPointer.getMessage()); // Prints "Encountered Null Pointer Exception: null pointer error"
             errorNullPointer.printStackTrace(); // DO NOT USE THIS LINE IN ACTUAL CODING
-            throw(errorNullPointer);
+            throw (errorNullPointer);
         } finally {
             diviserInteger = 0;
             dividentInteger = 0;
         }
 
+    }
+
+    private double divide(int diviser, int divident) {
+        return diviser / divident;
+    }
+
+    private double divide(String diviser, String divident) {
+        return (Integer.getInteger(diviser) / Integer.getInteger(divident));
     }
 }

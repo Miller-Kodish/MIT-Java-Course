@@ -4,12 +4,7 @@ public class AbstractionExample {
     // Abstract means hiding
     // Abstraction is showing only the things you need to show
 
-    private String welcomeMessage = "Hello, World!";    // First Example
-
-    private String setWelcomeMessage() {    // Second Example, sets a new welcomeMessage when called
-        String welcomeMessage = "Hi!!";
-        return welcomeMessage;
-    }
+    private final String welcomeMessage = "Hello, World!";    // First Example
 
     public static void main(String[] args) {
         System.out.println("\nFirst Example:");
@@ -25,5 +20,10 @@ public class AbstractionExample {
         System.out.println("Welcome Message AFTER Using setWelcomeMessage: " + absExample.welcomeMessage);  // Still prints "Hello, World!", nothing has changed
 
 
+    }
+
+    private String setWelcomeMessage() {    // Second Example, sets a new welcomeMessage when called
+        String welcomeMessage = "Hi!!";
+        return welcomeMessage;
     }
 }

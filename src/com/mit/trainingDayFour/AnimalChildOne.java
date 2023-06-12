@@ -1,7 +1,5 @@
 package com.mit.trainingDayFour;
 
-import java.util.Scanner;
-
 public class AnimalChildOne extends LandAnimalAbstract implements AnimalInterface {
     // Inherits from LandAnimalAbstract, uses AnimalInterface interface
     public static void main(String[] args) {
@@ -10,7 +8,7 @@ public class AnimalChildOne extends LandAnimalAbstract implements AnimalInterfac
         animalOne.name = animalOne.chooseAnimalName(1);  // Get name of animal
         animalOne.species = animalOne.chooseAnimalSpecies(1, animalOne.name); // Get type of animal
 
-        animalOne.isLandAnimal = animalOne.checkLandAnimal();   // Check if a land animal
+        animalOne.isLandAnimal = checkLandAnimal();   // Check if a land animal
 
         // Display Results (name, animal type, and if it's a land animal or not)
         animalOne.printAnimalOne(animalOne.name, animalOne.species);

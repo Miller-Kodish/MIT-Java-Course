@@ -1,6 +1,10 @@
 package com.mit.trainingDayFour;
 
 public class Apple {
+    public static void main(String[] args) {
+
+    }
+
     /**
      *
      */
@@ -10,9 +14,5 @@ public class Apple {
 
     public void productName(String nameOfProduct) {
         System.out.println("The product is called: " + nameOfProduct);
-    }
-
-    public static void main(String[] args) {
-
     }
 }

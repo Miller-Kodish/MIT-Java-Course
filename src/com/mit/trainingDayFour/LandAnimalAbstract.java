@@ -8,6 +8,23 @@ public abstract class LandAnimalAbstract implements AnimalInterface {
     String species;
     boolean isLandAnimal;
 
+    protected static boolean checkLandAnimal() {    // Gets user input for if a land animal or not
+        boolean isYes;
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("\n* Enter 'y' for yes or 'n' for no (default is 'n') *");
+        System.out.print("Is this animal a land animal?: ");
+
+        String input = scanner.nextLine().trim().toLowerCase();
+
+        isYes = input.equals("y");  // Converts yes or no to true or false boolean
+        scanner.close();
+        return isYes;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("(LandAnimalAbstract.java Main Function)");
+    }
 
     protected String chooseAnimalName(int animalNum) {  // Gets user input for animal name
         String name = "[NAME " + animalNum + "])";
@@ -23,20 +40,6 @@ public abstract class LandAnimalAbstract implements AnimalInterface {
         System.out.print("\nEnter the Kind of Animal \"" + name + "\" is: ");
         species = animalName.next();
         return (species);
-    }
-
-    protected static boolean checkLandAnimal() {    // Gets user input for if a land animal or not
-        boolean isYes;
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("\n* Enter 'y' for yes or 'n' for no (default is 'n') *");
-        System.out.print("Is this animal a land animal?: ");
-
-        String input = scanner.nextLine().trim().toLowerCase();
-
-        isYes = input.equals("y");  // Converts yes or no to true or false boolean
-        scanner.close();
-        return isYes;
     }
 
     @Override   // From interface, displays first animal
@@ -56,9 +59,5 @@ public abstract class LandAnimalAbstract implements AnimalInterface {
         } else {
             System.out.println("\n---------- THIS ANIMAL IS NOT A LAND ANIMAL ----------");
         }
-    }
-
-    public static void main(String[] args) {
-        System.out.println("(LandAnimalAbstract.java Main Function)");
     }
 }

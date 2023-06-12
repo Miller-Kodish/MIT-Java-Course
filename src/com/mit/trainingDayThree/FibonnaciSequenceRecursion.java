@@ -11,6 +11,7 @@ public class FibonnaciSequenceRecursion {
             return fibonacci(n - 1) + fibonacci(n - 2);
         }
     }
+
     public static void printFibonacciSequence(int maxNum) {
         int n;
         for (n = 0; n <= maxNum; n++) {  // Print each line, adding one more number to the fibonacci sequence

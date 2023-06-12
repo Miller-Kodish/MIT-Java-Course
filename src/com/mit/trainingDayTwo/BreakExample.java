@@ -28,7 +28,6 @@ public class BreakExample {
         System.out.println("Third Example: ");
         outer:
         for (i = 0; i < 10; i++) {
-            inner:
             for (j = 0; j <= i; j++) {
                 if (i >= 5) {
                     break outer;   // Break the outer loop

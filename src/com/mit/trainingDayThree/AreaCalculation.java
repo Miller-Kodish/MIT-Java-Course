@@ -31,24 +31,6 @@ public class AreaCalculation {
         this.radius = radius;
     }
 
-
-    // Methods to calculate area
-    protected float calcArea(int length) {   // Calculate area of square
-        areaSquare = this.length * this.length;
-        return areaSquare;
-    }
-
-    protected float calcArea(int length, int width) {   // Calculate area of rectangle
-        areaRectangle = this.width * this.length;
-        return areaRectangle;
-    }
-
-    protected float calcArea(int radius, float pi, int isCircle) {   // Calculate area of circle
-        areaCircle = this.radius * this.radius * this.pi;
-        return areaCircle;
-    }
-
-
     public static void main(String[] args) {
 
         // Variables
@@ -142,6 +124,22 @@ public class AreaCalculation {
         } else {
             System.out.println("\nNO AREAS TO DISPLAY.");   // Print message if user chose none of the options
         }
+    }
+
+    // Methods to calculate area
+    protected float calcArea(int length) {   // Calculate area of square
+        areaSquare = this.length * this.length;
+        return areaSquare;
+    }
+
+    protected float calcArea(int length, int width) {   // Calculate area of rectangle
+        areaRectangle = this.width * this.length;
+        return areaRectangle;
+    }
+
+    protected float calcArea(int radius, float pi, int isCircle) {   // Calculate area of circle
+        areaCircle = this.radius * this.radius * this.pi;
+        return areaCircle;
     }
 
 }

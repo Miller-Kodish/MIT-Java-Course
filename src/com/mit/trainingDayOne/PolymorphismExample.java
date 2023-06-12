@@ -3,6 +3,21 @@ package com.mit.trainingDayOne;
 public class PolymorphismExample {
     // Polymorphism --> Many forms
 
+    public static void main(String[] args) {
+        PolymorphismExample polyExample = new PolymorphismExample();
+
+        System.out.println("\nFirst Example:");
+        System.out.println("Using Two Different Functions:");
+        System.out.println("Addition of Two Numbers (5, and 10): " + polyExample.additionOfTwoNumbers(5, 10));
+        System.out.println("Addition of Three Numbers (5, 10, and 30): " + polyExample.additionOfThreeNumbers(5, 10, 30));
+
+        System.out.println("\nSecond Example:");    // Compile time polymorphism
+        System.out.println("Using Two Versions of the Same Function:");
+        System.out.println("Addition of Two Numbers (5, and 10): " + polyExample.addition(5, 10));
+        System.out.println("Addition of Three Numbers (5, 10, and 30): " + polyExample.addition(5, 10, 30));
+
+    }
+
     // First Example Functions
     private int additionOfTwoNumbers(int firstNumber, int secondNumber) {
         return (firstNumber + secondNumber);
@@ -22,22 +37,7 @@ public class PolymorphismExample {
         return (firstNumber + secondNumber + thirdNumber);
     }
 
-    public String concat(String firstName, String lastName, String secondLastName){ // Used for InheritanceExample.java
-        return(firstName + " " + lastName + "-" + secondLastName);
-    }
-
-    public static void main(String[] args) {
-        PolymorphismExample polyExample = new PolymorphismExample();
-
-        System.out.println("\nFirst Example:");
-        System.out.println("Using Two Different Functions:");
-        System.out.println("Addition of Two Numbers (5, and 10): " + polyExample.additionOfTwoNumbers(5, 10));
-        System.out.println("Addition of Three Numbers (5, 10, and 30): " + polyExample.additionOfThreeNumbers(5, 10, 30));
-
-        System.out.println("\nSecond Example:");    // Compile time polymorphism
-        System.out.println("Using Two Versions of the Same Function:");
-        System.out.println("Addition of Two Numbers (5, and 10): " + polyExample.addition(5, 10));
-        System.out.println("Addition of Three Numbers (5, 10, and 30): " + polyExample.addition(5, 10, 30));
-
+    public String concat(String firstName, String lastName, String secondLastName) { // Used for InheritanceExample.java
+        return (firstName + " " + lastName + "-" + secondLastName);
     }
 }

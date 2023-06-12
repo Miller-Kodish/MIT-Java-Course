@@ -25,7 +25,7 @@ public class IfStatementExample {
         }
 
         // Boolean Based If Statements
-        if (isTodayThursday == true) {   // == checks for equality (bc = means assignment)
+        if (isTodayThursday) {   // == checks for equality (bc = means assignment)
             System.out.println("Happy Thursday.");
         }
 

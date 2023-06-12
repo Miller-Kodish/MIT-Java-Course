@@ -1,6 +1,6 @@
 package com.mit.trainingDayFour;
 
-public class MusicPlayer {
+interface MusicPlayer {
     /**
      *
      */

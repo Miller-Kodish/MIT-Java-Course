@@ -1,10 +1,5 @@
 package com.mit.trainingDayFive;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Set;
-
 public class HashMapExample {
 //    // HashMap is a key-value pair
 //

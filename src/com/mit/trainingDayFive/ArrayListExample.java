@@ -41,7 +41,7 @@ public class ArrayListExample {
 
         Iterator<String> it = arrDaysOfWeek.iterator(); // Returns an iterator over the elements in this list in proper sequence
 
-        while(it.hasNext()){    // Returns true if the iteration has more elements
+        while (it.hasNext()) {    // Returns true if the iteration has more elements
             System.out.println(it.next());  // Returns the next element in the iteration
         }
 
@@ -49,7 +49,7 @@ public class ArrayListExample {
         ArrayList<String> testNullPtr = null; // Returns an empty list (immutable)
         it = testNullPtr.iterator();
 
-        while(it.hasNext()){    // Returns true if the iteration has more elements
+        while (it.hasNext()) {    // Returns true if the iteration has more elements
             System.out.println(it.next());  // Returns the next element in the iteration
         }   // Throws an error because testNullPtr is null
     }

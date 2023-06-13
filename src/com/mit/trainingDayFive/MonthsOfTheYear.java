@@ -30,8 +30,7 @@ public class MonthsOfTheYear {
     private void monthsArray() {
         // Array Data Structure of Months of the Year
         int i;
-        String[] months = {"January", "February", "March", "April", "May", "June", "July", "August", "September",
-                "October", "November", "December"};
+        String[] months = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
 
         System.out.println("\nArray of Months:\n");
         for (i = 0; i < months.length; i++) {

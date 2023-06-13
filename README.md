@@ -95,14 +95,35 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
 
-## Day 5 - :
+## Day 5 - Data Structures, and Get and Set:
+
+### Class Code:
+| Topic              | Code Link                                                                            |
+|--------------------|--------------------------------------------------------------------------------------|
+| Arrays             | [ArrayExample.java](src/com/mit/trainingDayFive/ArrayExample.java)                   |
+| ArrayLists         | [ArrayListExample.java](src/com/mit/trainingDayFive/ArrayListExample.java)           |
+| Vectors            | [VectorExample.java](src/com/mit/trainingDayFive/VectorExample.java)                 |
+| Hash Maps          | [HashMapExample.java](src/com/mit/trainingDayFive/HashMapExample.java)               |
+| Hash Tables        | [HashTableExample.java](src/com/mit/trainingDayFive/HashTableExample.java)           |
+| Get and Set        | [Student.java](src/com/mit/trainingDayFive/Student.java)                             |
+| Using Get and Set  | [StudentOperations.java](src/com/mit/trainingDayFive/StudentOperations.java)         |
+
+
+### Interactive Assignment Code:
+| Concept            | Code Link                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------|
+| Data Structures    | [MonthsOfTheYear.java](src/com/mit/trainingDayFive/MonthsOfTheYear.java)                         |
+| Get and Set        | [PersonAddress.java](src/com/mit/trainingDayFive/PersonAddress.java)                             |
+| Using Get and Set  | [AddressOperations.java](src/com/mit/trainingDayFive/AddressOperations.java)                     |
+
+-----
+
+## Day 6 - :
 
 ### Class Code:
 | Topic              | Code Link                                                                            |
 |--------------------|--------------------------------------------------------------------------------------|
 
-
 ### Interactive Assignment Code:
-| Concept      | Code Link                                                                                         |
-|--------------|---------------------------------------------------------------------------------------------------|
-
+| Concept            | Code Link                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------|

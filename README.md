@@ -98,32 +98,51 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 ## Day 5 - Data Structures, and Get and Set:
 
 ### Class Code:
-| Topic              | Code Link                                                                            |
-|--------------------|--------------------------------------------------------------------------------------|
-| Arrays             | [ArrayExample.java](src/com/mit/trainingDayFive/ArrayExample.java)                   |
-| ArrayLists         | [ArrayListExample.java](src/com/mit/trainingDayFive/ArrayListExample.java)           |
-| Vectors            | [VectorExample.java](src/com/mit/trainingDayFive/VectorExample.java)                 |
-| Hash Maps          | [HashMapExample.java](src/com/mit/trainingDayFive/HashMapExample.java)               |
-| Hash Tables        | [HashTableExample.java](src/com/mit/trainingDayFive/HashTableExample.java)           |
-| Get and Set        | [Student.java](src/com/mit/trainingDayFive/Student.java)                             |
-| Using Get and Set  | [StudentOperations.java](src/com/mit/trainingDayFive/StudentOperations.java)         |
 
+| Topic             | Code Link                                                                    |
+|-------------------|------------------------------------------------------------------------------|
+| Arrays            | [ArrayExample.java](src/com/mit/trainingDayFive/ArrayExample.java)           |
+| ArrayLists        | [ArrayListExample.java](src/com/mit/trainingDayFive/ArrayListExample.java)   |
+| Vectors           | [VectorExample.java](src/com/mit/trainingDayFive/VectorExample.java)         |
+| Hash Maps         | [HashMapExample.java](src/com/mit/trainingDayFive/HashMapExample.java)       |
+| Hash Tables       | [HashTableExample.java](src/com/mit/trainingDayFive/HashTableExample.java)   |
+| Get and Set       | [Student.java](src/com/mit/trainingDayFive/Student.java)                     |
+| Using Get and Set | [StudentOperations.java](src/com/mit/trainingDayFive/StudentOperations.java) |
 
 ### Interactive Assignment Code:
-| Concept            | Code Link                                                                                         |
-|--------------------|---------------------------------------------------------------------------------------------------|
-| Data Structures    | [MonthsOfTheYear.java](src/com/mit/trainingDayFive/MonthsOfTheYear.java)                         |
-| Get and Set        | [PersonAddress.java](src/com/mit/trainingDayFive/PersonAddress.java)                             |
-| Using Get and Set  | [AddressOperations.java](src/com/mit/trainingDayFive/AddressOperations.java)                     |
+
+| Concept           | Code Link                                                                    |
+|-------------------|------------------------------------------------------------------------------|
+| Data Structures   | [MonthsOfTheYear.java](src/com/mit/trainingDayFive/MonthsOfTheYear.java)     |
+| Get and Set       | [PersonAddress.java](src/com/mit/trainingDayFive/PersonAddress.java)         |
+| Using Get and Set | [AddressOperations.java](src/com/mit/trainingDayFive/AddressOperations.java) |
 
 -----
 
-## Day 6 - :
+## Day 6 - File I/O, and Properties Files:
 
 ### Class Code:
-| Topic              | Code Link                                                                            |
-|--------------------|--------------------------------------------------------------------------------------|
+
+| Topic                     | Code Link                                                                           |
+|---------------------------|-------------------------------------------------------------------------------------|
+| Opening and Closing Files | [FileExample.java](src/com/mit/trainingDaySix/FileExample.java)                     |
+| Reading and Writing Files | [IOExample.java](src/com/mit/trainingDaySix/IOExample.java)                         |
+| Properties Files          | [PropertiesFileExample.java](src/com/mit/trainingDaySix/PropertiesFileExample.java) |
 
 ### Interactive Assignment Code:
-| Concept            | Code Link                                                                                         |
-|--------------------|---------------------------------------------------------------------------------------------------|
+
+| Concept         | Code Link                                                     |
+|-----------------|---------------------------------------------------------------|
+| File I/O        | [PersonFile.java](src/com/mit/trainingDaySix/PersonFile.java) |
+| Properties File | [StarWars.java](src/com/mit/trainingDaySix/StarWars.java)     |
+
+### Data Files:
+
+| File Link                                                                   | Accompanying File                                                                   |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [test.txt](src/com/mit/trainingDaySix/test.txt)                             | [test.txt](src/com/mit/trainingDaySix/test.txt)                                     |
+| [test2.txt](src/com/mit/trainingDaySix/test2.txt)                           | [test2.txt](src/com/mit/trainingDaySix/test2.txt)                                   |
+| [Tony_Stark_Address.txt](src/com/mit/trainingDaySix/Tony_Stark_Address.txt) | [PersonFile.java](src/com/mit/trainingDaySix/PersonFile.java)                       |
+| [DC.properties](src/com/mit/trainingDaySix/DC.properties)                   | [PropertiesFileExample.java](src/com/mit/trainingDaySix/PropertiesFileExample.java) |
+| [Marvel.properties](src/com/mit/trainingDaySix/Marvel.properties)           | [PropertiesFileExample.java](src/com/mit/trainingDaySix/PropertiesFileExample.java) |
+|[StarWars.properties](src/com/mit/trainingDaySix/StarWars.properties)       | [StarWars.java](src/com/mit/trainingDaySix/StarWars.java)                           |

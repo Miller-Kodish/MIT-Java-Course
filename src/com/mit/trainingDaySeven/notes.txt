@@ -1,0 +1,59 @@
+CRUD Operations (DML):
+* Create
+* Read
+* Update
+* Delete
+
+DDL - Data Definition Language
+TCL - Transaction Control Language
+
+Collection Framework - List, ArrayList, Vector, Set, HashSet, Map, HashMap
+File Operations - FileReader, FileWriter, FileInputStream, FileOutputStream, BufferedReader, BufferedWriter
+
+JDBC API
+
+Driver Interface
+Connection Interface
+
+Statement Interface
+PreparedStatement Interface
+CallableStatement Interface
+
+ResultSet Interface
+ResultSetMetaData Interface
+DatabaseMetaData Interface
+RowSet Interface
+
+Metadata - Data/Info about Data
+
+To Connect With Database:
+* Address of the Database Server
+* Database Name
+* Credentials
+
+Checked and Unchecked Exceptions:
+* Checked - Compile Time Exceptions, may or may not occur but should add exception handling
+* Unchecked - Runtime Exceptions, may or may not occur but no need to add exception handling
+
+Exception Examples:
+* ArithmeticException -> Divide By Zero
+* ArrayIndexOutOfBoundsException -> Array Index Out Of Bound
+* NullPointerException -> Null Value
+* IOException -> Input Output Exception
+* FileNotFoundException -> File Not Found
+
+
+Unchecked Exception Examples:
+*****************************
+* ArithmeticException
+* ArrayIndexOutOfBoundsException
+* NullPointerException
+
+Checked Exception Examples:
+***************************
+* IOException
+* SQLException
+* ClassNotFoundException
+
+Unhandled Exceptions:
+* Type: ClassNotFoundException

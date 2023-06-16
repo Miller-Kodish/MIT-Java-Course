@@ -43,11 +43,12 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 ### Interactive Assignment Code:
 
-| Concept       | Code Link                                                                         |
-|---------------|-----------------------------------------------------------------------------------|
-| If Statements | [VideoGameRating.java](src/com/mit/trainingDayTwo/VideoGameRating.java)           |
-| For Loops     | [StarPatternGenerator.java](src/com/mit/trainingDayTwo/StarPatternGenerator.java) |
-| While Loops   | [FibonnaciSequence.java](src/com/mit/trainingDayTwo/FibonnaciSequence.java)       |
+| Concept        | Code Link                                                                         |
+|----------------|-----------------------------------------------------------------------------------|
+| If Statements  | [VideoGameRating.java](src/com/mit/trainingDayTwo/VideoGameRating.java)           |
+| If Else Ladder | [PrimeNumberChecker.java](src/com/mit/trainingDayTwo/PrimeNumberChecker.java)     |
+| For Loops      | [StarPatternGenerator.java](src/com/mit/trainingDayTwo/StarPatternGenerator.java) |
+| While Loops    | [FibonnaciSequence.java](src/com/mit/trainingDayTwo/FibonnaciSequence.java)       |
 
 -----
 
@@ -153,14 +154,14 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 ### Class Code:
 
-| Topic | Code Link |
-|-------|-----------|
+| Topic | Code Link                                                   |
+|-------|-------------------------------------------------------------|
 | JDBC  | [JDBCDemo.java](src/com/mit/trainingDaySeven/JDBCDemo.java) |
 
 ### Notes:
 
-| Topic | File Link |
-|---------|-----------|
-| JDBC | [notes.txt](src/com/mit/trainingDaySeven/notes.txt) |
+| Topic | File Link                                           |
+|-------|-----------------------------------------------------|
+| JDBC  | [notes.txt](src/com/mit/trainingDaySeven/notes.txt) |
 
 -----

@@ -30,7 +30,7 @@ public class StarWars {
             prop.store(outputStream, "Properties for Various Star Wars Classes");
 
             System.out.println("\t\t\t   (Property File Writing Complete.)");
-            outputStream.close();
+            outputStream.close();   // Close output stream to close file associated with output stream
 
             System.out.println("\n----------------- Reading From Properties File -----------------");
 
@@ -42,6 +42,7 @@ public class StarWars {
             System.out.println("Bounty Hunter:\t   " + prop.getProperty("Bounty Hunter"));
             System.out.println("Smuggler:\t\t   " + prop.getProperty("Smuggler"));
 
+            inputStream.close();    // Close input stream to close file associated with input stream
 
         } catch (Exception fileExceptionOne) {
             fileExceptionOne.printStackTrace();

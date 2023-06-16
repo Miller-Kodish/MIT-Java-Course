@@ -149,16 +149,18 @@ A Collection of Java Code From Training From Mastech InfoTrellis
 
 -----
 
-## Day 7 - :
+## Day 7 - Java Database Connectivity (JDBC):
 
 ### Class Code:
 
 | Topic | Code Link |
 |-------|-----------|
+| JDBC  | [JDBCDemo.java](src/com/mit/trainingDaySeven/JDBCDemo.java) |
 
-### Interactive Assignment Code:
+### Notes:
 
-| Concept | Code Link |
+| Topic | File Link |
 |---------|-----------|
+| JDBC | [notes.txt](src/com/mit/trainingDaySeven/notes.txt) |
 
 -----
